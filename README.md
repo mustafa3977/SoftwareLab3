@@ -45,10 +45,13 @@ Attaches multiple Observers.
 Changes the state and sees how only active observers are notified.
 
 Why Use Observer Pattern?
+
 ✅ Loose Coupling: Subject doesn’t need to know observer details.
 ✅ Scalability: Can add/remove observers without modifying Subject.
 ✅ Automatic Updates: Observers always receive the latest changes.
-question 2  
+
+
+Question 2  
 The above code demonstrates the Observer Pattern, which allows multiple objects (observers) to be notified when an event happens. Here’s how it works in simple terms:
 
 EventManager:
