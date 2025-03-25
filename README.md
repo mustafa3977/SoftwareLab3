@@ -1,3 +1,7 @@
+video
+https://github.com/user-attachments/assets/597b37fa-0acd-4212-bd60-dbac9d092aad
+
+
 Observer Pattern - Concept & Explanation
 The Observer Pattern is a behavioral design pattern that allows an object (Subject) to notify multiple other objects (Observers) whenever its state changes.
 
